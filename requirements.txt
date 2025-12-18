@@ -4,3 +4,4 @@ scipy
 pandas
 matplotlib
 requests
+streamlit-mic-recorder
